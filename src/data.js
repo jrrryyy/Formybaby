@@ -1,15 +1,70 @@
 export const content = {
   password: '050306',
   music: '/media/our-song.wav',
-  hero: '/media/hero.svg',
-  favorite: '/media/memory-1.svg',
+  hero: '/media/photos/memory-4.jpg',
+  favorite: '/media/photos/memory-10.jpg',
   memories: [
-    { image: '/media/memory-1.svg', title: 'My favorite view', caption: 'My favorite view will always be you. ❤️' },
-    { image: '/media/memory-2.svg', title: 'A little bit of magic', caption: 'Every moment with you feels like magic.' },
-    { image: '/media/memory-3.svg', title: 'The happiest little moments', caption: 'The person behind my happiest smiles.' },
-    { image: '/media/memory-4.svg', title: 'Somewhere, with you', caption: "If I could relive one moment, I'd choose every moment with you." },
-    { image: '/media/memory-5.svg', title: 'Us, always', caption: 'My favorite memories have you in them.' }
-  ],
+  {
+    "image": "/media/photos/memory-1.jpg",
+    "title": "A little silly. A lot in love.",
+    "caption": "Four frames, a thousand reasons to smile."
+  },
+  {
+    "image": "/media/photos/memory-2.jpg",
+    "title": "My favorite kind of beautiful",
+    "caption": "Just you, being you. That has always been enough."
+  },
+  {
+    "image": "/media/photos/memory-3.jpg",
+    "title": "Beside you",
+    "caption": "Even a quiet moment feels like somewhere I belong."
+  },
+  {
+    "image": "/media/photos/memory-4.jpg",
+    "title": "Coffee & closeness",
+    "caption": "My favorite place in any room is next to you."
+  },
+  {
+    "image": "/media/photos/memory-5.jpg",
+    "title": "Our golden hour",
+    "caption": "Sweet drinks, soft skies, and a little more time together."
+  },
+  {
+    "image": "/media/photos/memory-6.jpg",
+    "title": "The sweetest part of my day",
+    "caption": "A shared table. A familiar smile. Everything I need."
+  },
+  {
+    "image": "/media/photos/memory-7.jpg",
+    "title": "A little lightness",
+    "caption": "You make the ordinary feel wonderfully alive."
+  },
+  {
+    "image": "/media/photos/memory-8.jpg",
+    "title": "You, me & a memory",
+    "caption": "Some moments are too lovely to let go of."
+  },
+  {
+    "image": "/media/photos/memory-9.jpg",
+    "title": "Side by side",
+    "caption": "Different shoes. The same little adventure."
+  },
+  {
+    "image": "/media/photos/memory-10.jpg",
+    "title": "One more moment with you",
+    "caption": "If I could keep an afternoon, I would keep this one."
+  },
+  {
+    "image": "/media/photos/memory-11.jpg",
+    "title": "The little things I notice",
+    "caption": "The quiet moments are beautiful, too."
+  },
+  {
+    "image": "/media/photos/memory-12.jpg",
+    "title": "Wherever we go",
+    "caption": "There is so much more of the world to see together."
+  }
+],
   story: [
     {title:'The Day We Met', date:'Our beginning · add your date', description:'Of all the paths we could have taken, ours led us to each other.'},
     {title:'Our First Conversation', date:'The first hello · add your date', description:'A simple hello became a conversation I never wanted to end.'},
