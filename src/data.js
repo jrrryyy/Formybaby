@@ -67,7 +67,7 @@ export const content = {
 ],
   story: [
     {title:'The Day We Met', image:'/media/photos/story-1.jpg', date:'Our beginning · add your date', description:'Of all the paths we could have taken, ours led us to each other.'},
-    {title:'Our First Conversation', image:'/media/photos/story-2.jpg', date:'The first hello · add your date', description:'A simple hello became a conversation I never wanted to end.'},
+    {title:'Our First Conversation', image:'/media/photos/story-2.jpg', date:'The first hello · add your date', description:'A simple joke became a conversation I never wanted to end.'},
     {title:'Our First Picture Together', image:'/media/photos/story-3.jpg', date:'Our first keepsake · add your date', description:'One little photograph. A whole world of happiness.'},
     {title:'Our Favorite Date', image:'/media/photos/story-4.jpg', date:'A day to remember · add your date', description:'The place was lovely. Being there with you was everything.'},
     {title:'The Little Moments', date:'All the days in between', description:'The laughter, the quiet, the ordinary days. Those are the moments I treasure.'},
