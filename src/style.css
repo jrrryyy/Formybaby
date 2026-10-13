@@ -19,3 +19,5 @@
 @media(max-width:1000px){.hero-art .photo-frame img{height:390px}.gallery .memory img{height:260px}.gallery .memory-0 img{height:auto}.gallery .memory-4 img{height:350px}}
 @media(max-width:700px){.hero-art .photo-frame img{height:360px}.gallery{grid-template-columns:1fr 1fr;gap:28px 16px}.gallery .memory:nth-child(3n+2){margin-top:0}.gallery .memory-0{grid-column:1/-1}.gallery .memory img{height:230px}.gallery .memory-0 img{height:auto}.gallery .memory-4 img{height:300px}.gallery .memory h3{font-size:20px}.gallery .memory p{font-size:10px}.gallery .memory button{padding:7px}}
 @media(max-width:420px){.gallery{grid-template-columns:1fr}.gallery .memory img{height:auto;max-height:480px;object-fit:contain}.gallery .memory h3{font-size:24px}.gallery .memory p{font-size:12px;max-width:none}}
+
+.timeline-card img{height:auto;max-height:none;aspect-ratio:auto;object-fit:contain;object-position:center}
